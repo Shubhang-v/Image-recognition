@@ -1,0 +1,19 @@
+.heading
+{
+    font-size: larger;
+    width: 80%;
+}
+.name_of_objects
+{
+    color: hotpink;
+}
+body
+{
+    background: linear-gradient(to right, lightblue 5%,skyblue 20%) 
+}
+#camera{
+    width: 300px;
+    height: 250px;
+    border-style: dotted ;
+    border-color: palevioletred;
+}
